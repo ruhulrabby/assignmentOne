@@ -27,6 +27,10 @@ body {
   padding-left: 2%;
 }
 
+.half-width img{
+  width: 100%;
+}
+
 .title-color {
   color: #f76760;
 }
@@ -53,3 +57,4 @@ section {
   height: 500px;
   padding-bottom: 150px;
 }
+
