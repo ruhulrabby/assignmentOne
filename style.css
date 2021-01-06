@@ -27,7 +27,7 @@ body {
   padding-left: 2%;
 }
 
-.half-width img{
+.half-width img {
   width: 100%;
 }
 
@@ -58,46 +58,90 @@ section {
   padding-bottom: 150px;
 }
 
-h2{
-  font-family:"Bebas Neue", cursive; ;
+h2 {
+  font-family: "Bebas Neue", cursive;
 }
 
-.mid-banner{
+.mid-banner {
   justify-content: center;
 }
 
-.text{
-  
+.text {
   padding-bottom: 20px;
 }
 
-.third-banner{
+.third-banner {
   background-color: #e5e5e5;
-  
-
 }
 
-.third-banner h2{
+.third-banner h2 {
   text-align: center;
-}
-
-.box{
-  width: 15%;
-  float: left;
-  margin-left: 5%;
-  padding-left: 2%;
-  float: left;
   
-
-
 }
 
-.box image{
+.box {
+  width: 20%;
+  margin: 5%;
+  float: left;
+}
+
+.box img {
   width: 100%;
-
 }
 
-h3{
+h3 {
   font-size: 24px;
   font-weight: 700;
 }
+
+#text {
+  padding: 5%;
+  margin: 2%;
+}
+
+.last-banner {
+  background-color: white;
+  background-repeat: no-repeat;
+}
+
+.work-box {
+  background-image: url(images/bg.png);
+  width: 906px;
+  height: 225px;
+  border-radius: 7px;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  background-position: center;
+}
+
+#bg-text {
+  color: white;
+  font-size: 64;
+  font-weight: 700;
+  text-align: left;
+}
+
+#bg-link{
+  align-items: right;
+}
+
+#footertext {
+  font-family: "Bebas Neue", cursive;
+  font-size: 24px;
+  color: dimgray;
+  text-align: center;
+}
+
+#footerstyle{
+  font-family: "Roboto", sans-serif;
+  font-size: 36px;
+  text-align: center;
+}
+.icon{
+ 
+  padding-left: 500px;
+  
+
+}
+
