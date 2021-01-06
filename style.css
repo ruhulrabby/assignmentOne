@@ -4,7 +4,7 @@ body {
 }
 
 .navbar {
-  padding: 20px 20px;
+  padding: 20px 10px;
   margin: 45px 1px 40px;
   text-align: right;
 }
@@ -58,3 +58,46 @@ section {
   padding-bottom: 150px;
 }
 
+h2{
+  font-family:"Bebas Neue", cursive; ;
+}
+
+.mid-banner{
+  justify-content: center;
+}
+
+.text{
+  
+  padding-bottom: 20px;
+}
+
+.third-banner{
+  background-color: #e5e5e5;
+  
+
+}
+
+.third-banner h2{
+  text-align: center;
+}
+
+.box{
+  width: 15%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+  float: left;
+  
+
+
+}
+
+.box image{
+  width: 100%;
+
+}
+
+h3{
+  font-size: 24px;
+  font-weight: 700;
+}
